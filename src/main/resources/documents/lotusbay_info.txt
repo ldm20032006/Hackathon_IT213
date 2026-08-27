@@ -1,0 +1,73 @@
+THÔNG TIN KHÁCH SẠN LOTUSBAY
+Tài liệu nội bộ dùng cho hệ thống AI Chatbot hỗ trợ khách hàng
+
+1. THÔNG TIN CHUNG
+- Tên hệ thống: LotusBay - Chuỗi khách sạn nghỉ dưỡng & công tác.
+- Chi nhánh Nha Trang: 12 Trần Phú, Phường Lộc Thọ, TP. Nha Trang, Khánh Hòa - 18 tầng, 120 phòng, view biển.
+- Chi nhánh Đà Lạt: 45 Hồ Tùng Mậu, Phường 10, TP. Đà Lạt, Lâm Đồng - 6 tầng, 60 phòng, phong cách đồi thông.
+- Chi nhánh Phú Quốc: Khu 2, Bãi Trường, TP. Phú Quốc, Kiên Giang - 8 tầng, 90 phòng, kề bãi biển.
+- Hotline đặt phòng: 1900 6363.
+- Email hỗ trợ: support@lotusbay.vn.
+- Website: https://lotusbay.vn.
+
+2. GIỜ NHẬN PHÒNG VÀ TRẢ PHÒNG
+- Giờ nhận phòng (check-in) tiêu chuẩn: từ 14:00.
+- Giờ trả phòng (check-out) tiêu chuẩn: trước 12:00 trưa.
+- Nhận phòng sớm (trước 14:00) hoặc trả phòng muộn (sau 12:00) tùy tình trạng phòng trống, phụ thu 50% giá phòng/đêm cho mỗi mốc chênh lệch quá 3 giờ.
+- Quầy lễ tân (Front Desk) hoạt động 24/7 tại cả ba chi nhánh.
+
+3. CHÍNH SÁCH ĐẶT PHÒNG & HỦY PHÒNG
+- Đặt phòng được xác nhận ngay sau khi thanh toán cọc tối thiểu 30% giá trị đơn đặt phòng, phần còn lại thanh toán khi nhận phòng.
+- Hủy phòng miễn phí nếu thông báo trước 48 giờ so với giờ nhận phòng dự kiến; hủy trong vòng 48 giờ bị tính phí 50% giá trị đêm đầu tiên.
+- Khách không đến nhận phòng (no-show) và không báo trước sẽ bị tính phí toàn bộ đêm đầu tiên.
+- Được đổi ngày lưu trú sang thời điểm khác trong vòng 30 ngày nếu yêu cầu trước ngày nhận phòng tối thiểu 24 giờ, chỉ áp dụng 1 lần cho mỗi đơn đặt phòng.
+- Trẻ em dưới 6 tuổi ngủ chung giường với bố mẹ được miễn phí; từ 6 tuổi trở lên tính phí giường phụ theo bảng giá tại từng chi nhánh.
+
+4. ƯU ĐÃI THÀNH VIÊN
+- Thành viên LotusBay Rewards tích lũy điểm thưởng theo giá trị đặt phòng, 100.000 VNĐ tương ứng 1 điểm, quy đổi điểm để giảm giá cho lượt đặt phòng kế tiếp.
+- Thứ Tư hàng tuần: giảm giá 20% giá phòng cho khách đặt trực tiếp qua website hoặc hotline (Wonderful Wednesday).
+- Đặt phòng từ 3 đêm trở lên được tặng miễn phí 1 bữa sáng buffet cho 2 người/phòng.
+- Khách hàng thân thiết (đã lưu trú từ 5 lần trở lên) được nâng hạng phòng miễn phí (tùy tình trạng phòng trống tại thời điểm nhận phòng).
+
+5. PHƯƠNG THỨC THANH TOÁN
+- Thanh toán tại quầy lễ tân bằng tiền mặt hoặc thẻ ATM/Visa/Mastercard/JCB.
+- Đặt phòng online qua website hoặc tổng đài, thanh toán cọc qua Momo, ZaloPay, VNPay hoặc chuyển khoản ngân hàng.
+- Hóa đơn VAT (nếu khách hàng yêu cầu) được xuất trong vòng 3 ngày làm việc kể từ ngày trả phòng.
+
+6. CÂU HỎI THƯỜNG GẶP (FAQ)
+Hỏi: LotusBay có chi nhánh ở đâu?
+Đáp: LotusBay có 3 chi nhánh tại Nha Trang, Đà Lạt và Phú Quốc.
+
+Hỏi: LotusBay có chi nhánh ở Phú Quốc không?
+Đáp: Có, chi nhánh Phú Quốc tại Khu 2, Bãi Trường, TP. Phú Quốc, Kiên Giang.
+
+Hỏi: Giờ nhận phòng và trả phòng tiêu chuẩn là mấy giờ?
+Đáp: Nhận phòng từ 14:00 và trả phòng trước 12:00 trưa; nhận sớm/trả muộn có thể phụ thu tùy tình trạng phòng.
+
+Hỏi: Đặt phòng rồi có hủy được không?
+Đáp: Được, miễn phí nếu hủy trước giờ nhận phòng tối thiểu 48 giờ; hủy trễ hơn sẽ bị tính phí 50% đêm đầu tiên.
+
+Hỏi: Khách có thể đổi ngày không?
+Đáp: Được, đổi ngày lưu trú trong vòng 30 ngày nếu yêu cầu trước 24 giờ, áp dụng 1 lần/đơn đặt phòng.
+
+Hỏi: Trẻ em có phải trả phí không?
+Đáp: Trẻ em dưới 6 tuổi miễn phí khi ngủ chung giường bố mẹ. Từ 6 tuổi trở lên tính phí giường phụ.
+
+Hỏi: Có những ưu đãi nào cho thành viên?
+Đáp: Tích điểm Rewards, giảm 20% thứ Tư hàng tuần, tặng buffet sáng khi ở từ 3 đêm trở lên, nâng hạng phòng cho khách thân thiết.
+
+Hỏi: Có thể thanh toán bằng gì?
+Đáp: Tiền mặt, thẻ ngân hàng (ATM/Visa/Mastercard/JCB), Momo, ZaloPay, VNPay, chuyển khoản.
+
+Hỏi: Hotline đặt phòng là bao nhiêu?
+Đáp: Hotline đặt phòng: 1900 6363. Email: support@lotusbay.vn.
+
+7. TIỆN NGHI VÀ DỊCH VỤ
+- Hồ bơi vô cực tầng thượng (chi nhánh Nha Trang và Phú Quốc).
+- Nhà hàng & bar phục vụ 06:00 – 23:00.
+- Spa & trung tâm thể dục (Gym).
+- Phòng họp & hội nghị (sức chứa 20–200 người tùy chi nhánh).
+- Dịch vụ đưa đón sân bay (đặt trước tối thiểu 24 giờ).
+- Wi-Fi tốc độ cao miễn phí toàn bộ khu vực khách sạn.
+- Bãi đỗ xe miễn phí cho khách lưu trú.
+- Dịch vụ giặt ủi trong ngày (yêu cầu trước 09:00).
